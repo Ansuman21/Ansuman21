@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansuman21&label=Profile%20views&color=0e75b6&style=flat" alt="ansuman21" /> </p>
 
-- 📝 I regularly talk about Data Science [https://medium.com/@ansumanpatnaik](https://medium.com/@ansumanpatnaik)
+- 📝 I regularly talk about Data Science and Analytics [https://medium.com/@ansumanpatnaik](https://medium.com/@ansumanpatnaik)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ansumanpatnaik/](https://www.linkedin.com/in/ansumanpatnaik/)
 
